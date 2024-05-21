@@ -1,1 +1,1 @@
-# mlops_zoomcamp
+# mlops_projects
